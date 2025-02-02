@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/3rd Party Assets.meta
 guid: 570742d70b0319b448ee72e7f8bb1e02
+========
+guid: 0e96a327ac0e3ac42aa6204b8dea86d7
+>>>>>>>> 38170fa4f7b447e289d2ae2af5592386930eab55:Assets/3rd Party Assets/UnityTechnologies.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

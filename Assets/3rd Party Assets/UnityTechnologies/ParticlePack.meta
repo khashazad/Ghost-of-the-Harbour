@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/3rd Party Assets/UnityTechnologies/ParticlePack.meta
 guid: 46bcdaea192596940a6b1bb5a7c7a093
+========
+guid: 1ee82b48e2496074cb331fdd4b3f321f
+>>>>>>>> 38170fa4f7b447e289d2ae2af5592386930eab55:Assets/3rd Party Assets/UnityTechnologies/ParticlePack/Scenes.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
