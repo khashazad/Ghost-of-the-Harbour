@@ -1,4 +1,3 @@
 repository "Ghost-of-the-Harbour@khxsh@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main/spawn-many"
