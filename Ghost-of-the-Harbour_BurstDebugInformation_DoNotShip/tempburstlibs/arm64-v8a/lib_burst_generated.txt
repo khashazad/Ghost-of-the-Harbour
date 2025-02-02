@@ -9,6 +9,7 @@ Library: /Users/khxsh/Documents/unity/Ghost-of-the-Harbour/Temp/BurstOutput/temp
 --target-framework=NetFramework
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/khxsh/Documents/unity/Ghost-of-the-Harbour/Temp/Burst
+--debug=Full
 --key-folder=/Applications/Unity/Hub/Editor/6000.0.35f1/PlaybackEngines/AndroidPlayer
 --decode-folder=/Users/khxsh/Documents/unity/Ghost-of-the-Harbour/Library/Burst
 --output=/Users/khxsh/Documents/unity/Ghost-of-the-Harbour/Temp/BurstOutput/tempburstlibs/arm64-v8a/lib_burst_generated
@@ -93,6 +94,7 @@ Library: /Users/khxsh/Documents/unity/Ghost-of-the-Harbour/Temp/BurstOutput/temp
 --float-mode=Fast
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/khxsh/Documents/unity/Ghost-of-the-Harbour/Temp/Burst
+--debug=Full
 --key-folder=/Applications/Unity/Hub/Editor/6000.0.35f1/PlaybackEngines/AndroidPlayer
 --decode-folder=/Users/khxsh/Documents/unity/Ghost-of-the-Harbour/Library/Burst
 --output=/Users/khxsh/Documents/unity/Ghost-of-the-Harbour/Temp/BurstOutput/tempburstlibs/arm64-v8a/lib_burst_generated
@@ -110,6 +112,7 @@ Library: /Users/khxsh/Documents/unity/Ghost-of-the-Harbour/Temp/BurstOutput/temp
 --target-framework=NetFramework
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/khxsh/Documents/unity/Ghost-of-the-Harbour/Temp/Burst
+--debug=Full
 --key-folder=/Applications/Unity/Hub/Editor/6000.0.35f1/PlaybackEngines/AndroidPlayer
 --decode-folder=/Users/khxsh/Documents/unity/Ghost-of-the-Harbour/Library/Burst
 --output=/Users/khxsh/Documents/unity/Ghost-of-the-Harbour/Temp/BurstOutput/tempburstlibs/arm64-v8a/lib_burst_generated

@@ -1,19 +1,30 @@
 using UnityEngine;
 using UnityEngine.AI;
+using Unity.XR.CoreUtils;
 
 public class Enemy : MonoBehaviour
 {
-    [SerializeField] Transform target;
     NavMeshAgent agent;
-    
-    void Awake()
-    {
-        agent = GetComponent<NavMeshAgent>();
-    }
+    Transform target;
 
-    // Update is called once per frame
     void Update()
     {
-       agent.SetDestination(target.position); 
+        agent = GetComponent<NavMeshAgent>();
+
+        // Find the XR Origin (XR Rig) dynamically
+        XROrigin xrOrigin = FindObjectOfType<XROrigin>();
+        if (xrOrigin != null)
+        {
+            target = xrOrigin.transform;
+        }
+        else
+        {
+            Debug.LogError("XR Origin (XR Rig) not found in the scene! Make sure it's added.");
+        }
+
+        if (target != null)
+        {
+            agent.SetDestination(target.position);
+        }
     }
 }

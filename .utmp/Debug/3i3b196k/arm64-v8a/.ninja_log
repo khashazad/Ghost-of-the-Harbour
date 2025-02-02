@@ -1,0 +1,10 @@
+# ninja log v5
+2	455	1738485008000018214	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	57aa0be15720590f
+0	464	1738485008009077870	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	851cd2706627ae94
+1	465	1738485008009033036	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	8f9cb5c77eeb503
+2	465	1738485008010748251	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	18831b089beee423
+3	475	1738485008021355079	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b2b95ed386ed7a00
+1	494	1738485008041241106	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8390b7958a8c72f5
+2	542	1738485008086407720	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5d860ee946a7261a
+0	570	1738485008114942776	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	6c4fd5c38b70d401
+570	646	1738485008187111191	/Users/khxsh/Documents/unity/Ghost-of-the-Harbour/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/3i3b196k/obj/arm64-v8a/libgame.so	8541c4356718a8a8
